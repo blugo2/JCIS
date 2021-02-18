@@ -1,1 +1,1 @@
-# JCIS, just for inventory tab
+# JCIS, just for Locations tab
